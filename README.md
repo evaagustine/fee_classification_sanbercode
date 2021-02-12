@@ -12,4 +12,4 @@ So, at first the aim of the project is to predict the label for column "Gaji" or
 4. Build machine learning with Decision Tree Regressor algorithm
 5. Save the prediction in excel and its done!
 
-I know its sounds very simple and easy but at first it gives me such a struggle. But it was so much fun for my first learn about machine learning! :)
+The accuracy evaluate with cross validation is 95% which is pretty good after a bunch of tries, what I learned that time was we should choose the right machine learning algorithms to get a good accuracy score, I mean in that time I just realized how important to know the basic about supervised and unsupervised learning. I know its sounds very simple and easy but at first it gives me such a struggle. But it was so much fun for my first learn about machine learning! :)
